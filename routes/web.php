@@ -16,6 +16,9 @@ use App\Http\Controllers\DonasiController;
 Route::get('/', function () {
     return redirect('login');
 });
+Route::get('/tentang', function() {
+    return view('tentang');
+});
 
 Auth::routes();
 

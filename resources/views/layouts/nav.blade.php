@@ -72,7 +72,7 @@
                                 @endif
                                 <!-- .nk-menu-item -->
                                 <li class="nk-menu-item">
-                                    <a href="#" class="nk-menu-link">
+                                    <a href="/tentang" class="nk-menu-link">
                                         <span class="nk-menu-icon"><em class="icon ni ni-info"></em></span>
                                         <span class="nk-menu-text">Tentang</span>
                                     </a>
