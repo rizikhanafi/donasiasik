@@ -15,9 +15,9 @@
 - Setelah install composer, ketik "cp .env.example .env" dan setting .env sesuai database yang dipakai.
 - Lalu ketik di cmd "php artisan key:generate".
 - Setelah generate ketik di cmd "php artisan migrate" untuk mengekspor table.
-- Setelah semua sudah di install, copy dan replace folder "ui" ke donasik/vendor/laravel .
+- Setelah semua sudah di install, copy dan replace folder "ui" ke donasiasik/vendor/laravel .
 - Ketik "php artisan serve" untuk menjalankan aplikasi.
 
-Enjoy the apps.
+Enjoy the apps. Apabila ingin menggunakan admin, edit level menjadi 2 di table users.
 
 Kontak instagram @rizikhanafi untuk lebih lanjut.
