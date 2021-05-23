@@ -8,6 +8,8 @@ use DB;
 
 class DonasiModel extends Model
 {
+
+
     public function addData($data) {
         return DB::table('donatur')->insert($data);
     }
