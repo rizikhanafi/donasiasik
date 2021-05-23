@@ -15,9 +15,18 @@
 - Setelah install composer, ketik "cp .env.example .env" dan setting .env sesuai database yang dipakai.
 - Lalu ketik di cmd "php artisan key:generate".
 - Setelah generate ketik di cmd "php artisan migrate" untuk mengekspor table.
+- Untuk demo data ketik "php artisan db:seed"
 - Setelah semua sudah di install, copy dan replace folder "ui" ke donasiasik/vendor/laravel .
 - Ketik "php artisan serve" untuk menjalankan aplikasi.
 
 Enjoy the apps. Apabila ingin menggunakan admin, edit level menjadi 2 di table users.
+
+Admin
+email: admin@gmail.com
+pass: 12345678
+
+User
+email: user@gamil.com
+pass: 12345678
 
 Kontak instagram @rizikhanafi untuk lebih lanjut.
