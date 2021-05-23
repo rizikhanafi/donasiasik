@@ -19,14 +19,14 @@
 - Setelah semua sudah di install, copy dan replace folder "ui" ke donasiasik/vendor/laravel .
 - Ketik "php artisan serve" untuk menjalankan aplikasi.
 
-Enjoy the apps. Apabila ingin menggunakan admin, edit level menjadi 2 di table users.
+Admin <br>
+email: admin@gmail.com <br>
+pass: 12345678 <br>
+<br>
+User <br>
+email: user@gmail.com <br>
+pass: 12345678 <br>
 
-Admin
-email: admin@gmail.com
-pass: 12345678
-
-User
-email: user@gamil.com
-pass: 12345678
+Enjoy the apps.
 
 Kontak instagram @rizikhanafi untuk lebih lanjut.
