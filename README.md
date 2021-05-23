@@ -16,6 +16,7 @@
 - Lalu ketik di cmd "php artisan key:generate".
 - Setelah generate ketik di cmd "php artisan migrate" untuk mengekspor table.
 - Setelah semua sudah di install, copy dan replace folder "ui" ke donasik/vendor/laravel .
+- Ketik "php artisan serve" untuk menjalankan aplikasi.
 
 Enjoy the apps.
 
