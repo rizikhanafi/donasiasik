@@ -95,7 +95,7 @@
                             </div>
                             <div class="nk-header-brand d-xl-none">
                                 <a href="html/index.html" class="logo-link">
-                                    <img class="logo-light logo-img" src="{{ asset ('template') }}/images/logo.png" srcset="{{ asset ('template') }}/images/logo2x.png 2x" alt="logo"></a>
+                                    <img class="logo-light logo-img" src="{{ asset ('template') }}/images/logos.png" srcset="{{ asset ('template') }}/images/logo2x.png 2x" alt="logo"></a>
                             </div><!-- .nk-header-news -->
                             <div class="nk-header-tools">
                                 <ul class="nk-quick-nav">
