@@ -94,7 +94,7 @@
                                 <a href="#" class="nk-nav-toggle nk-quick-nav-icon" data-target="sidebarMenu"><em class="icon ni ni-menu"></em></a>
                             </div>
                             <div class="nk-header-brand d-xl-none">
-                                <a href="html/index.html" class="logo-link">
+                                <a href="/home" class="logo-link">
                                     <img class="logo-light logo-img" src="{{ asset ('template') }}/images/logos.png" srcset="{{ asset ('template') }}/images/logo2x.png 2x" alt="logo"></a>
                             </div><!-- .nk-header-news -->
                             <div class="nk-header-tools">
