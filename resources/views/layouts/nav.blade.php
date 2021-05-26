@@ -25,9 +25,9 @@
                 <div class="nk-sidebar-element nk-sidebar-head">
                     <div class="nk-sidebar-brand">
                         <a href="/home" class="logo-link nk-sidebar-logo">
-                            <img class="logo-light logo-img" src="{{ asset ('template') }}/images/logos.png" srcset="{{ asset ('template') }}/images/logo2x.png 2x" alt="logo">
-                            <img class="logo-dark logo-img" src="{{ asset ('template') }}/images/logos.png" srcset="{{ asset ('template') }}/images/logo-dark2x.png 2x" alt="logo-dark">
-                            <img class="logo-small logo-img logo-img-small" src="{{ asset ('template') }}/images/D.png" srcset="{{ asset ('template') }}/images/logo-small2x.png 2x" alt="logo-small"> </a>
+                            <img class="logo-light logo-img" src="{{ asset ('template') }}/images/logos.png" srcset="{{ asset ('template') }}/images/logos.png" alt="logo">
+                            <img class="logo-dark logo-img" src="{{ asset ('template') }}/images/logos.png" srcset="{{ asset ('template') }}/images/logos.png" alt="logo-dark">
+                            <img class="logo-small logo-img logo-img-small" src="{{ asset ('template') }}/images/D.png" srcset="{{ asset ('template') }}/images/D.png" alt="logo-small"> </a>
                     </div>
                     <div class="nk-menu-trigger mr-n2">
                         <a href="#" class="nk-nav-toggle nk-quick-nav-icon d-xl-none" data-target="sidebarMenu"><em class="icon ni ni-arrow-left"></em></a>
@@ -95,7 +95,7 @@
                             </div>
                             <div class="nk-header-brand d-xl-none">
                                 <a href="/home" class="logo-link">
-                                    <img class="logo-light logo-img" src="{{ asset ('template') }}/images/logos.png" srcset="{{ asset ('template') }}/images/logo2x.png 2x" alt="logo"></a>
+                                    <img class="logo-light logo-img" src="{{ asset ('template') }}/images/logos.png" srcset="{{ asset ('template') }}/images/logos.png" alt="logo"></a>
                             </div><!-- .nk-header-news -->
                             <div class="nk-header-tools">
                                 <ul class="nk-quick-nav">
