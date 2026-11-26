@@ -28,5 +28,3 @@ email: user@gmail.com <br>
 pass: 12345678 <br>
 
 Enjoy the apps.
-
-Kontak instagram @rizikhanafi untuk lebih lanjut.
